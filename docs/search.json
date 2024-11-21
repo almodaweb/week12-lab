@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Lab 12",
+    "title": "P566 Lab 12",
     "section": "",
     "text": "This is my PM566 website for Lab 12."
   },
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#tab-1-scatterplot-1",
+    "href": "index.html#tab-1-scatterplot-1",
+    "title": "P566 Lab 12",
+    "section": "Tab 1: Scatterplot 1",
+    "text": "Tab 1: Scatterplot 1\n\n# Code or object for the first plot\np1_scatter\n\nWarning: Ignoring 1 observations\n\n\nWarning in RColorBrewer::brewer.pal(N, \"Set2\"): n too large, allowed maximum for palette Set2 is 8\nReturning the palette you asked for with that many colors\nWarning in RColorBrewer::brewer.pal(N, \"Set2\"): n too large, allowed maximum for palette Set2 is 8\nReturning the palette you asked for with that many colors\n\n\n\n\n\n# Code or object for the second plot\np2_scatter\n\nWarning: Ignoring 1 observations\nWarning: n too large, allowed maximum for palette Set2 is 8\nReturning the palette you asked for with that many colors\nWarning: n too large, allowed maximum for palette Set2 is 8\nReturning the palette you asked for with that many colors"
+  },
+  {
+    "objectID": "index.html#showcasing-plots",
+    "href": "index.html#showcasing-plots",
+    "title": "P566 Lab 12",
+    "section": "Showcasing plots",
+    "text": "Showcasing plots\n\nFigure 1\n\n\n\n\n\n\n\n\nFigure 2\n\n\n\n\n\n\n\n\nFigure 3"
   }
 ]
