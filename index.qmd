@@ -1,5 +1,5 @@
 ---
-title: "P566 Lab 12"
+title: "PM566 Lab 12"
 ---
 
 This is my PM566 website for Lab 12.
